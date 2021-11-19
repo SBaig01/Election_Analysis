@@ -1,6 +1,7 @@
 # Election_Analysis
 
 ## Overview of Analysis 
+
 The election commision has requested additional analysis of the election results to complete the audit. This analysis was conducted to provide the following additional outcomes as per election commision request:
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
@@ -26,11 +27,13 @@ number of votes and the percentage of total votes for each county in the precinc
 * **Winner is _Diana DeGette_ winning _272,892_ votes (_73.8%_ of total votes)**
 
 ### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-There is an opportunity to utilize the existing County-level elections scipt (with modification) for other election results audit. Two impactful use cases are for the Federal and State level election results audit. 
 
-Please see the following suggestions of how the scipt could be modified to be implemented at the Federal and State Levels.
+There is an opportunity to utilize the existing County-level elections scipt (with modification) for other election results audit. Two impactful use cases are for the Federal and State level election results audit. Please see the following suggestions of how the scipt could be modified to be implemented at the Federal and State Levels.
 
 The Existing Script is as follows. Please note that the variables/lists definitions are specific to "county".
+
 ![](https://github.com/SBaig01/Election_Analysis/blob/098500a23ab8682a1464b1cbc0f520360a0a1b42/Existing%20County.png)
    
-2. Suggested Script with Modifications
+The Suggested Script with more generic variable and lists definitions:
+
+![] (https://github.com/SBaig01/Election_Analysis/blob/60a682f22ac5684761af2518d6e8854a28b5a1c5/Suggestion%201.png)
