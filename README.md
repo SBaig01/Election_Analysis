@@ -33,4 +33,4 @@ The Existing Script is as follows. Please note that the variables/lists definiti
    
 The Suggested Script with more generic variable and lists definitions:
 
-![] (https://github.com/SBaig01/Election_Analysis/blob/60a682f22ac5684761af2518d6e8854a28b5a1c5/Suggestion%201.png)
+![](https://github.com/SBaig01/Election_Analysis/blob/60a682f22ac5684761af2518d6e8854a28b5a1c5/Suggestion%201.png)
