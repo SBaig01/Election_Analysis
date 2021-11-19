@@ -25,6 +25,9 @@ number of votes and the percentage of total votes for each county in the precinc
   - *Raymon Anthony Doane*: 3.1% of total votes (11,606 votes)
 * **Winner is _Diana DeGette_ winning _272,892_ votes (_73.8%_ of total votes)**
 
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
 ### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+There is an opportunity to utilize the existing County-level elections scipt (with modification) for other election results audit. Two impactful use cases are for the Federal and State level election results audit. Please see the following suggestions of how the scipt could be modified to be implemented at the Federal and State Levels.
+1. Existing Script
+   
+   
+2. Suggested Script with Modifications
