@@ -9,10 +9,7 @@ The election commision has requested additional analysis of the election results
 
 ## Election-Audit Results
 
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-How many votes were cast in this congressional election?
-number of votes and the percentage of total votes for each county in the precinct.
+The Results from the Election Audit are as follow:
 
 * Total Votes Cast in Cogressional Election: **369,711 votes**
 * County Votes:
@@ -26,7 +23,7 @@ number of votes and the percentage of total votes for each county in the precinc
   - *Raymon Anthony Doane*: 3.1% of total votes (11,606 votes)
 * **Winner is _Diana DeGette_ winning _272,892_ votes (_73.8%_ of total votes)**
 
-### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+### Election-Audit Summary
 
 There is an opportunity to utilize the existing County-level elections scipt (with modification) for other election results audit. Two impactful use cases are for the Federal and State level election results audit. Please see the following suggestions of how the scipt could be modified to be implemented at the Federal and State Levels.
 
