@@ -12,9 +12,9 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 * Total Votes: 369,711
 * County Votes:
-  - Jefferson: 10.5% of total votes
-  - Denver: 82.8% of total votes
-  - Arapahoe: 6.7% of total votes
+  - Jefferson: 38,855 (10.5% of total votes)
+  - Denver: 306,055 (82.8% of total votes)
+  - Arapahoe: 24,801 (6.7% of total votes)
 
 ### Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
